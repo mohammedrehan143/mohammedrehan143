@@ -8,11 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+AI+Solutions;Always+Learning+New+Technologies" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/mohammedrehan143/assets/main/REHAN.png" width="220">
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=PROFILE+VIEWS&style=for-the-badge&color=ff6b35"/>
 
