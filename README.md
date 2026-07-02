@@ -1,173 +1,161 @@
+<!-- ========================================================= -->
+<!--                MOHAMMED REHAN | GITHUB PROFILE             -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Mohammed Rehan</h1>
-<h3 align="center">AI & Data Engineer | Full Stack Developer | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views"/>
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mohammed Rehan
 
-<p align="center">
-  <a href="https://github.com/mohammedrehan143">
-    <img src="https://img.shields.io/github/followers/mohammedrehan143?label=Followers&style=for-the-badge">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+AI+Solutions;Always+Learning+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=Profile+Views&color=ff6b35&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mohammedrehan143?logo=github&style=for-the-badge&color=black"/>
+
+<img src="https://img.shields.io/github/stars/mohammedrehan143?affiliations=OWNER&style=for-the-badge&color=orange"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Mohammed Rehan
+
+Role:
+  - AI & Data Engineer
+  - Full Stack Developer
+
+Education:
+  - BMS Institute of Technology & Management
+
+Current Focus:
+  - Data Engineering
+  - Machine Learning
+  - Cloud Computing
+  - Backend Development
+
+Currently Learning:
+  - Apache Spark
+  - Kafka
+  - Airflow
+  - Databricks
+  - Azure
+  - Snowflake
+
+Goals:
+  - Become an AI & Data Engineer
+  - Build products that impact millions
+```
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=sql"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+### Frontend
 
-- 🎓 AI & Data Engineering Enthusiast
-- 💻 Full Stack Web Developer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Learning Data Engineering & Cloud Technologies
-- 🌱 Currently exploring Spark, Kafka, Airflow & Azure
-- ⚡ I enjoy building AI-powered applications and scalable systems.
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,sql" />
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
 </p>
 
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+---
 
 ### AI / Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,linux,azure,aws" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-# 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=docker"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedrehan143&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrehan143&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git"/>
 
-</p>
+<img src="https://skillicons.dev/icons?i=github"/>
 
----
+<img src="https://skillicons.dev/icons?i=azure"/>
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohammedrehan143&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 🌟 What I'm Working On
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedrehan143&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Voice Assistant
-
-Voice-controlled assistant using Python.
+- 🤖 AI-powered applications
+- 📊 Data Engineering pipelines
+- ☁️ Cloud-native projects
+- 🌐 Modern full-stack web applications
+- ⚡ Open-source contributions
+- 📚 Continuously improving my problem-solving skills
 
 ---
 
-### 💰 Personal Finance Chatbot
+# 📈 Coding Activity
 
-AI chatbot for finance management and budgeting.
-
----
-
-### ⚡ EV Charging Station Locator
-
-Real-time EV charging station finder with slot booking.
+> *"Turning Data into Intelligence, Ideas into Impact."*
 
 ---
 
-### 📄 Medical Prescription Verification
+<div align="center">
 
-OCR + AI system to verify prescriptions.
+### ⚡ Keep scrolling — the best part is below 👇
 
----
-
-### 📚 StudyMate AI
-
-Chat with PDFs using Large Language Models.
-
----
-
-### 🌐 Portfolio Website
-
-Modern animated portfolio built using React, Tailwind CSS and Vite.
-
----
-
-# 📚 Currently Learning
-
-- Apache Spark
-- Apache Kafka
-- Airflow
-- Snowflake
-- Azure Data Factory
-- Databricks
-- Data Warehousing
-- Data Pipelines
-- Machine Learning
-- Generative AI
-
----
-
-# 🌎 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## 💡 Quote
-
-> **"Turning Data into Intelligence, Ideas into Impact."**
-
----
-
-<p align="center">
-
-### Thanks for visiting ❤️
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-</p>
+</div>
