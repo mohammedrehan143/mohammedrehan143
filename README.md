@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mohammedrehan143/mohammedrehan143/main/REHAN.png" width="220">
+<img src="https://raw.githubusercontent.com/mohammedrehan143/assets/main/REHAN.png" width="220">
 
 <br><br>
 
