@@ -1,105 +1,87 @@
-
-# 👋 Hi, I'm Mohammed Rehan
+<!-- =============================================== -->
+<!--           MOHAMMED REHAN GITHUB PROFILE         -->
+<!-- =============================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+AI+Solutions;Always+Learning+🚀" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Mohammed Rehan
 
-<img src="https://raw.githubusercontent.com/mohammedrehan143/mohammedrehan143/main/REHAN.png" width="220"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+AI+Solutions;Always+Learning+New+Technologies" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedrehan143&style=for-the-badge&color=orange)
+<br>
+
+<img src="https://raw.githubusercontent.com/mohammedrehan143/mohammedrehan143/main/REHAN.png" width="220">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=PROFILE+VIEWS&style=for-the-badge&color=ff6b35"/>
+
+<img src="https://img.shields.io/github/followers/mohammedrehan143?logo=github&style=for-the-badge&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/mohammedrehan143?affiliations=OWNER&style=for-the-badge&color=ff6b35"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-- AI & Data Engineer
-- Full Stack Developer
-- Passionate about Machine Learning, Data Engineering and Cloud.
-- Currently learning Apache Spark, Kafka, Airflow, Databricks and Azure.
-
-# 💻 Tech Stack
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="65"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="65"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="65"/><br>TypeScript</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="65"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="65"/><br>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="65"/><br>Vite</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="65"/><br>Azure</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="65"/><br>AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>TensorFlow</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br>PyTorch</td>
-</tr>
-</table>
+## 🚀 Turning Data into Intelligence, Ideas into Impact.
 
 </div>
 
-# 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,50:ff6b35,100:111111&section=header"/>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammedrehan143&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=mohammedrehan143&theme=tokyonight&hide_border=true"/>
-</p>
+# 👨‍💻 About Me
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrehan143&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
 
-## 🏆 Trophies
+<tr>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedrehan143&theme=tokyonight&row=2&column=4"/>
-</p>
+<td width="65%">
 
-## 📈 Activity Graph
+### AI & Data Engineer
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedrehan143&theme=tokyo-night"/>
+I enjoy designing scalable AI systems, modern web applications, and data engineering solutions.
 
-# 🚀 Featured Projects
+Currently focused on:
 
-- 🤖 AI Voice Assistant
-- ⚡ EV Charging Station Locator
-- 📄 Medical Prescription Verification
-- 💰 Personal Finance Chatbot
-- 📚 StudyMate AI
-- 🌐 Portfolio Website
+- 🤖 Artificial Intelligence
+- 📊 Data Engineering
+- ☁️ Cloud Computing
+- ⚡ Backend Systems
+- 🌐 Full Stack Development
 
-# 🌱 Currently Learning
+</td>
 
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
-- Databricks
-- Snowflake
-- Azure Data Factory
+<td align="center">
 
-# 🌐 Connect
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrehan143&theme=tokyonight"/>
 
-- LinkedIn: https://www.linkedin.com/in/mohammedrehan-dev/
-- Portfolio: https://mdrehan.vercel.app
+</td>
 
-> **Turning Data into Intelligence, Ideas into Impact.**
+</tr>
 
+</table>
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+Learning:
+  - Apache Spark
+  - Kafka
+  - Airflow
+  - Databricks
+  - Azure
+  - Snowflake
+
+Working On:
+  - AI Applications
+  - Data Pipelines
+  - Cloud Deployments
+  - Machine Learning Projects
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
