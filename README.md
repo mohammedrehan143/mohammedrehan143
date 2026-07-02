@@ -299,17 +299,6 @@ Working On:
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedrehan143&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -328,4 +317,265 @@ Working On:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,50:ff6b35,100:111111"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b35,100:111111&height=120&section=header"/>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Voice Assistant
+
+🎤 Voice Controlled AI Assistant
+
+### Features
+
+- Voice Recognition
+- Text To Speech
+- AI Responses
+- Smart Commands
+- Desktop Automation
+
+**Tech Stack**
+
+Python • OpenCV • SpeechRecognition • pyttsx3
+
+</td>
+
+<td width="50%">
+
+## ⚡ EV Charging Station Locator
+
+Smart EV Charging Platform
+
+### Features
+
+- Live Station Locator
+- Slot Booking
+- Distance Based Booking
+- Real-Time Availability
+- Maps Integration
+
+**Tech Stack**
+
+React • Node.js • MongoDB • Maps API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📄 Medical Prescription Verification
+
+AI based Prescription Verification
+
+### Features
+
+- OCR
+- Image Processing
+- Fake Detection
+- Medicine Recognition
+
+**Tech Stack**
+
+Python • OpenCV • TensorFlow
+
+</td>
+
+<td>
+
+## 💰 Personal Finance Chatbot
+
+Finance Assistant powered by AI
+
+### Features
+
+- Expense Analysis
+- Budget Planning
+- AI Recommendations
+- Natural Language Chat
+
+**Tech Stack**
+
+React • Node.js • Gemini API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📚 StudyMate AI
+
+Chat with PDFs using AI
+
+### Features
+
+- Upload PDFs
+- Ask Questions
+- AI Summaries
+- Vector Search
+
+**Tech Stack**
+
+React • Python • LLM
+
+</td>
+
+<td>
+
+## 🌐 Portfolio Website
+
+Modern Animated Portfolio
+
+### Features
+
+- Glassmorphism
+- GSAP Animations
+- Responsive Design
+- Modern UI
+
+**Tech Stack**
+
+React • TypeScript • Tailwind • Vite
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧠 AI & Data Engineering Roadmap
+
+<div align="center">
+
+| 🚀 Domain | 📈 Progress |
+|-----------|------------|
+| Python | ██████████ 100% |
+| SQL | █████████░ 90% |
+| Machine Learning | ████████░░ 80% |
+| Data Engineering | ███████░░░ 70% |
+| Apache Spark | █████░░░░░ 50% |
+| Apache Kafka | █████░░░░░ 50% |
+| Airflow | ████░░░░░░ 40% |
+| Databricks | ███░░░░░░░ 30% |
+| Azure | ███░░░░░░░ 30% |
+
+</div>
+
+---
+
+# 💼 Experience
+
+```text
+2026 ───────────────────────────────
+
+🚀 AI & Data Engineering Student
+
+💻 Full Stack Developer
+
+🤖 AI Application Developer
+
+☁️ Cloud & Data Engineering Learner
+
+📊 Building Scalable AI Projects
+
+🌍 Open Source Contributor
+```
+
+---
+
+# 🎓 Education
+
+```yaml
+Institution:
+  BMS Institute of Technology & Management
+
+Degree:
+  Computer Science
+
+Focus:
+  Artificial Intelligence
+  Data Engineering
+  Full Stack Development
+
+Expected Career:
+  AI Engineer
+  Data Engineer
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| Technology | Status |
+|------------|--------|
+| Apache Spark | 🟠 Learning |
+| Kafka | 🟠 Learning |
+| Airflow | 🟠 Learning |
+| Databricks | 🟠 Learning |
+| Azure | 🟠 Learning |
+| Snowflake | 🟠 Learning |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become AI Engineer
+
+- ✅ Become Data Engineer
+
+- ✅ Master Cloud Computing
+
+- ✅ Build Production AI Systems
+
+- ✅ Contribute to Open Source
+
+- ✅ 1000+ GitHub Contributions
+
+- ✅ Build SaaS Products
+
+- ✅ Crack Product Based Company
+
+---
+
+# 💡 Fun Facts
+
+⚡ I love solving real-world problems using AI.
+
+🚀 Building projects is my favorite way to learn.
+
+☕ Coffee + Coding = Productivity
+
+🎯 Always learning something new.
+
+💻 Clean Code > Clever Code
+
+---
+
+<div align="center">
+
+## ⭐ "Turning Data into Intelligence, Ideas into Impact."
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
