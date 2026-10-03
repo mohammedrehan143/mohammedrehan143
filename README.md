@@ -1,759 +1,344 @@
-<!-- =============================================== -->
-<!--           MOHAMMED REHAN GITHUB PROFILE         -->
-<!-- =============================================== -->
+<!-- ========================================================================= -->
+<!--                           MOHAMMED REHAN | GITHUB PROFILE                  -->
+<!-- ========================================================================= -->
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Mohammed Rehan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:ff6b35,100:111111&text=Mohammed%20Rehan&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%9A%80%20Turning%20Data%20into%20Intelligence%2C%20Ideas%20into%20Impact.&descSize=18&descAlignY=62&descColor=ffcca8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+AI+Solutions;Always+Learning+New+Technologies" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=Full+Stack+%26+Agentic+AI+Engineer;Autonomous+Workflows+%26+RAG+Architect;Next.js+%7C+Supabase+%7C+Node.js+%7C+n8n;Transforming+Data+into+Scalable+Products;Always+Engineering+the+Next+Big+Idea" alt="Typing SVG" />
+</a>
 
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=PROFILE+VIEWS&style=for-the-badge&color=ff6b35"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=PROFILE+VIEWS&style=for-the-badge&color=ff6b35" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohammedrehan143?logo=github&style=for-the-badge&color=181717" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohammedrehan143?affiliations=OWNER&style=for-the-badge&color=ff6b35" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Deploying-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+</p>
 
-<img src="https://img.shields.io/github/followers/mohammedrehan143?logo=github&style=for-the-badge&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/mohammedrehan143?affiliations=OWNER&style=for-the-badge&color=ff6b35"/>
+<p align="center">
+  <a href="mailto:mrofficialyt083@gmail.com"><img src="https://img.shields.io/badge/Email-mrofficialyt083%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mohammedrehan143"><img src="https://img.shields.io/badge/GitHub-mohammedrehan143-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open_To-AI_%26_Full--Stack_Roles-ff6b35?style=flat-square" alt="Opportunities" />
+</p>
 
 </div>
 
 ---
-
-<div align="center">
-
-## 🚀 Turning Data into Intelligence, Ideas into Impact.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,50:ff6b35,100:111111&section=header"/>
 
 # 👨‍💻 About Me
 
 <table>
-
 <tr>
+<td width="63%" valign="top">
 
-<td width="65%">
+### Full-Stack & Agentic AI Engineer 🚀
 
-### AI & Data Engineer
+I engineer intelligent, production-grade applications that combine **autonomous AI agents**, **Retrieval-Augmented Generation (RAG)**, and **scalable full-stack architectures**.
 
-I enjoy designing scalable AI systems, modern web applications, and data engineering solutions.
+- 🤖 **Agentic AI & LLMs**: Architecting multi-step agent workflows, tool-using AI systems, conversational voice bots, and high-precision RAG pipelines over complex documents.
+- 🌐 **Full-Stack & Cloud**: Building high-performance web applications and SaaS platforms with **Next.js**, **React**, **Node.js**, **TypeScript**, and **Supabase**.
+- ⚡ **Workflow Automation**: Designing resilient event-driven systems, webhook integrations, and automated WhatsApp notification pipelines with **n8n**.
+- 📊 **Data & Vision**: Processing end-to-end data pipelines with **Python**, **Pandas**, **NumPy**, and real-time computer vision with **OpenCV** & **MediaPipe**.
+- 🛠️ **System Architecture**: Designing multi-tenant schemas, secure payment gateways (**Razorpay**), and rock-solid Row Level Security (**RLS**).
 
-Currently focused on:
-
-- 🤖 Artificial Intelligence
-- 📊 Data Engineering
-- ☁️ Cloud Computing
-- ⚡ Backend Systems
-- 🌐 Full Stack Development
-
-</td>
-
-<td align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrehan143&theme=tokyonight"/>
+*⚡ "Engineering systems that think, automate, and scale."*
 
 </td>
+<td width="37%" align="center" valign="middle">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrehan143&theme=tokyonight" width="100%"/>
+
+</td>
 </tr>
-
 </table>
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Current Engineering Focus & Education
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 Specialization Roadmap
 ```yaml
-Learning:
-  - Apache Spark
-  - Kafka
-  - Airflow
-  - Databricks
-  - Azure
-  - Snowflake
+Core Architecture:
+  - Agentic AI Systems & Multi-Step Tool Workflows
+  - Vector Databases & Production RAG Architectures
+  - Multi-Tenant SaaS & Event-Driven Backends
+  - Self-Hosted Infrastructure & Docker Orchestration
 
-Working On:
-  - AI Applications
-  - Data Pipelines
-  - Cloud Deployments
-  - Machine Learning Projects
+Currently Architecting:
+  - SmartX AI Tutor: Adaptive multi-agent educational assistant
+  - ClauseWise: AI legal contract analyzer & risk detector
+  - WhatsApp Automation Platform: Multi-client reminder engine via n8n & Supabase
+  - VoiceOps: Autonomous voice receptionist using Retell AI & ElevenLabs
+
+Distributed Scaling:
+  - Apache Spark • Kafka • Airflow • Cloud Data Pipelines
 ```
+
+</td>
+<td width="45%" valign="top">
+
+### 🎓 Education & Background
+```yaml
+Institution:
+  BMS Institute of Technology & Management
+
+Discipline:
+  Computer Science & Engineering
+
+Focus Areas:
+  - Artificial Intelligence & Machine Learning
+  - Data Engineering & Pipelines
+  - Full-Stack Cloud Architecture
+
+Engineering Philosophy:
+  "Clean Code > Clever Code"
+  "Code with purpose, automate with intelligence"
+```
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
 
 # 💻 Tech Universe
 
 <div align="center">
-
-## Languages
-
-<table>
-<tr>
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br><b>Python</b>
-</td>
-
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=java" width="65"/><br><b>Java</b>
-</td>
-
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br><b>C++</b>
-</td>
-
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=c" width="65"/><br><b>C</b>
-</td>
-
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=js" width="65"/><br><b>JavaScript</b>
-</td>
-
-<td align="center" width="95">
-<img src="https://skillicons.dev/icons?i=ts" width="65"/><br><b>TypeScript</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sql" width="65"/><br><b>SQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br><b>HTML</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br><b>CSS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="65"/><br><b>Bash</b>
-</td>
-
-<td></td>
-
-<td></td>
-
-</tr>
-
-</table>
-
----
-
-## Frontend
-
-<table>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="65"/><br><b>React</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vite" width="65"/><br><b>Vite</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br><b>Tailwind</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br><b>Bootstrap</b>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## Backend
-
-<table>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br><b>Node.js</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="65"/><br><b>Express</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="65"/><br><b>FastAPI</b>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## Database
-
-<table>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br><b>MongoDB</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br><b>PostgreSQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><b>MySQL</b>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## AI & Data Engineering
-
-<table>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br><b>TensorFlow</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br><b>PyTorch</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="65"/><br><b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="65"/><br><b>Linux</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br><b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br><b>GitHub</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=azure" width="65"/><br><b>Azure</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="65"/><br><b>AWS</b>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake"/>
-</td>
-
-</tr>
-
-</table>
-
+  <p><i>A curated view of the languages, frameworks, AI models, and infrastructure I leverage daily.</i></p>
 </div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🚀 Programming Languages</h3>
+      <a href="#"><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql,html,css,bash&theme=dark" /></a>
+      <br><br>
+      <h3 align="left">🌐 Frontend Engineering</h3>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,bootstrap,html,css&theme=dark" /></a>
+      <br>
+      <sub><code>Next.js (App/Pages)</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>PWA</code> • <code>Responsive UI</code></sub>
+      <br><br>
+      <h3 align="left">⚙️ Backend, APIs & Webhooks</h3>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postman&theme=dark" /></a>
+      <br>
+      <sub><code>Node.js</code> • <code>Express.js</code> • <code>Next.js API Routes</code> • <code>RESTful APIs</code> • <code>Webhooks</code> • <code>Auth Flows</code></sub>
+      <br><br>
+      <h3 align="left">🗄️ Databases & BaaS</h3>
+      <a href="#"><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&theme=dark" /></a>
+      <br>
+      <sub><code>PostgreSQL</code> • <code>Supabase (Auth / Storage / RLS)</code> • <code>MongoDB / Mongoose</code> • <code>Schema Design</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 AI, LLMs & Agentic Systems</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Generative_AI-FF6B35?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentic_AI-7928CA?style=for-the-badge&logo=probot&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG_Pipelines-0070F3?style=for-the-badge&logo=diagram-next&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-6B46C1?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/ElevenLabs_Voice-000000?style=flat-square&logo=audio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Retell_AI-FF5722?style=flat-square&logo=soundcharts&logoColor=white" />
+      </p>
+      <sub><code>Autonomous Agents</code> • <code>Vector Search</code> • <code>Tool Calling</code> • <code>Voice AI</code> • <code>Prompt Engineering</code></sub>
+      <br><br>
+      <h3 align="left">⚡ Workflow Automation & Payments</h3>
+      <p>
+        <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square&logo=webhook&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay_Payments-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" />
+      </p>
+      <sub><code>DB Triggers</code> • <code>Multi-Client Architecture</code> • <code>Automated Messaging</code> • <code>Payment Webhooks</code></sub>
+      <br><br>
+      <h3 align="left">📊 Data Science & Computer Vision</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <sub><code>JupyterLab</code> • <code>Anaconda</code> • <code>Image & Video Processing</code> • <code>ETL Data Pipelines</code></sub>
+      <br><br>
+      <h3 align="left">☁️ DevOps, Cloud & Infrastructure</h3>
+      <a href="#"><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify,vscode&theme=dark" /></a>
+      <br>
+      <sub><code>Docker</code> • <code>Ubuntu / VPS Hosting</code> • <code>Custom Domains & DNS</code> • <code>Always-on Services</code></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
-# 📊 GitHub Dashboard
+# 📐 System Architecture Blueprint
+
+An architectural mental model I apply when designing production-grade, event-driven SaaS and AI automation systems:
+
+```mermaid
+flowchart LR
+    A["👥 Multi-Client Ingestion<br/>Web / Mobile / Forms"] --> B["🛡️ API Gateway & Security<br/>Next.js API / Webhook Auth"]
+    B --> C["🗄️ PostgreSQL / Supabase<br/>RLS Policies & Row Events"]
+    C --> D{"⚡ Orchestration Engine<br/>n8n / Server Workflows"}
+    D --> E["🧠 Agentic AI & RAG<br/>Gemini / ElevenLabs / Vector Search"]
+    D --> F["📲 Omnichannel Alerts<br/>WhatsApp API / Webhooks"]
+    D --> G["💳 Payment Gateway<br/>Razorpay Webhook & Settlement"]
+```
+
+---
+
+# 🚀 Featured Projects & Engineering Highlights
+
+<table>
+  <thead>
+    <tr>
+      <th width="28%">Project</th>
+      <th width="48%">Overview & Engineering Impact</th>
+      <th width="24%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🤖 SmartX AI Tutor</b></td>
+      <td>AI-powered adaptive educational platform delivering interactive tutoring, personalized quiz generation, and concept breakdown for students.</td>
+      <td><code>Next.js</code> <code>Gemini API</code> <code>TypeScript</code> <code>Supabase</code></td>
+    </tr>
+    <tr>
+      <td><b>⚖️ ClauseWise</b></td>
+      <td>AI legal contract analyzer automating contract review, detecting potential risk clauses, and scoring compliance through deep LLM reasoning.</td>
+      <td><code>Next.js</code> <code>RAG</code> <code>OpenRouter</code> <code>Tailwind CSS</code></td>
+    </tr>
+    <tr>
+      <td><b>📄 StudyMate PDF Q&A</b></td>
+      <td>Retrieval-Augmented Generation (RAG) system enabling contextual conversational QA over complex multi-page documents and PDFs using vector embeddings.</td>
+      <td><code>Python</code> <code>RAG</code> <code>Vector Search</code> <code>FastAPI</code></td>
+    </tr>
+    <tr>
+      <td><b>🩺 Medical Prescription Verification</b></td>
+      <td>Computer vision and AI-powered healthcare document verification system that extracts, parses, and validates prescription data.</td>
+      <td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>OCR</code></td>
+    </tr>
+    <tr>
+      <td><b>🎙️ VoiceOps — AI Receptionist</b></td>
+      <td>Autonomous conversational voice platform managing inbound/outbound customer queries, call workflows, and automated communication.</td>
+      <td><code>Retell AI</code> <code>ElevenLabs</code> <code>Node.js</code> <code>Webhooks</code></td>
+    </tr>
+    <tr>
+      <td><b>🔊 EchoVerse</b></td>
+      <td>AI audiobook and expressive voice generation engine transforming text into lifelike speech with dynamic pacing and emotional nuance.</td>
+      <td><code>Python</code> <code>ElevenLabs</code> <code>pyttsx3</code> <code>Audio AI</code></td>
+    </tr>
+    <tr>
+      <td><b>📲 WhatsApp Automation Engine</b></td>
+      <td>Database-driven customer reminder and notification pipeline orchestrating automated multi-client messaging via event triggers.</td>
+      <td><code>n8n</code> <code>WhatsApp API</code> <code>Supabase</code> <code>Docker</code></td>
+    </tr>
+    <tr>
+      <td><b>⚡ EV Charging Station Locator</b></td>
+      <td>Smart EV charging platform featuring real-time station discovery, slot reservations, distance-based booking, and interactive map navigation.</td>
+      <td><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Maps API</code></td>
+    </tr>
+    <tr>
+      <td><b>🛍️ NextGen E-Commerce & Menu QR SaaS</b></td>
+      <td>Full-stack commercial platform featuring digital QR menus, dynamic catalogs, Google Maps integration, and secure Razorpay payment webhooks.</td>
+      <td><code>React</code> <code>Node.js</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
+    </tr>
+    <tr>
+      <td><b>🏆 Epoch Hub</b></td>
+      <td>Internal club task-management and gamification dashboard designed for team milestone tracking, role-based workflows, and productivity metrics.</td>
+      <td><code>Next.js</code> <code>Supabase RLS</code> <code>Tailwind</code> <code>TypeScript</code></td>
+    </tr>
+    <tr>
+      <td><b>💰 Personal Finance AI</b></td>
+      <td>Conversational financial intelligence assistant analyzing personal spending habits, budget anomalies, and cash flow projections.</td>
+      <td><code>Python</code> <code>LLM APIs</code> <code>Pandas</code> <code>NumPy</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammedrehan143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammedrehan143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=mohammedrehan143&theme=tokyonight&hide_border=true&border_radius=8" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=mohammedrehan143&theme=tokyonight&hide_border=true"/>
+<br>
 
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrehan143&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrehan143&layout=compact&theme=tokyonight&hide_border=true&border_radius=8"/>
 
 </div>
 
+---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedrehan143&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph & Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedrehan143&theme=tokyo-night&hide_border=true"/>
 
+<br><br>
+
+<img src="https://ghchart.rshah.org/FF6B35/mohammedrehan143" width="100%"/>
+
 </div>
 
 ---
+
+# 🤝 Let's Connect & Collaborate
 
 <div align="center">
+  <p>I'm always open to discussing <b>Agentic AI systems</b>, <b>autonomous workflows</b>, <b>Full-Stack SaaS</b>, or <b>open-source collaborations</b>.</p>
 
-### ⚡ "Code. Learn. Build. Repeat."
+  <p align="center">
+    <a href="mailto:mrofficialyt083@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mrofficialyt083%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mohammedrehan143">
+      <img src="https://img.shields.io/badge/GitHub-mohammedrehan143-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,50:ff6b35,100:111111"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b35,100:111111&height=120&section=header"/>
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Voice Assistant
-
-🎤 Voice Controlled AI Assistant
-
-### Features
-
-- Voice Recognition
-- Text To Speech
-- AI Responses
-- Smart Commands
-- Desktop Automation
-
-**Tech Stack**
-
-Python • OpenCV • SpeechRecognition • pyttsx3
-
-</td>
-
-<td width="50%">
-
-## ⚡ EV Charging Station Locator
-
-Smart EV Charging Platform
-
-### Features
-
-- Live Station Locator
-- Slot Booking
-- Distance Based Booking
-- Real-Time Availability
-- Maps Integration
-
-**Tech Stack**
-
-React • Node.js • MongoDB • Maps API
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📄 Medical Prescription Verification
-
-AI based Prescription Verification
-
-### Features
-
-- OCR
-- Image Processing
-- Fake Detection
-- Medicine Recognition
-
-**Tech Stack**
-
-Python • OpenCV • TensorFlow
-
-</td>
-
-<td>
-
-## 💰 Personal Finance Chatbot
-
-Finance Assistant powered by AI
-
-### Features
-
-- Expense Analysis
-- Budget Planning
-- AI Recommendations
-- Natural Language Chat
-
-**Tech Stack**
-
-React • Node.js • Gemini API
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📚 StudyMate AI
-
-Chat with PDFs using AI
-
-### Features
-
-- Upload PDFs
-- Ask Questions
-- AI Summaries
-- Vector Search
-
-**Tech Stack**
-
-React • Python • LLM
-
-</td>
-
-<td>
-
-## 🌐 Portfolio Website
-
-Modern Animated Portfolio
-
-### Features
-
-- Glassmorphism
-- GSAP Animations
-- Responsive Design
-- Modern UI
-
-**Tech Stack**
-
-React • TypeScript • Tailwind • Vite
-
-</td>
-
-</tr>
-
-</table>
+  <br>
+  <b>⚡ "Code with purpose, automate with intelligence, build to scale."</b>
+  <br><br>
 
 </div>
 
----
-
-# 🧠 AI & Data Engineering  core
-
-<div align="center">
-
-| 🚀 Domain | 📈 Progress |
-|-----------|------------|
-| Python | ██████████ 100% |
-| SQL | █████████░ 90% |
-| Machine Learning | ████████░░ 80% |
-| Data Engineering | ███████░░░ 70% |
-| Apache Spark | █████░░░░░ 50% |
-| Apache Kafka | █████░░░░░ 50% |
-| Airflow | ████░░░░░░ 40% |
-| Databricks | ███░░░░░░░ 30% |
-| Azure | ███░░░░░░░ 30% |
-
-</div>
-
----
-
-# 💼 Experience
-
-```text
-2026 ───────────────────────────────
-
-🚀 AI & Data Engineering Student
-
-💻 Full Stack Developer
-
-🤖 AI Application Developer
-
-☁️ Cloud & Data Engineering Learner
-
-📊 Building Scalable AI Projects
-
-🌍 Open Source Contributor
-```
-
----
-
-# 🎓 Education
-
-```yaml
-Institution:
-  BMS Institute of Technology & Management
-
-Degree:
-  Computer Science
-
-Focus:
-  Artificial Intelligence
-  Data Engineering
-  Full Stack Development
-
-Expected Career:
-  AI Engineer
-  Data Engineer
-```
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-| Technology | Status |
-|------------|--------|
-| Apache Spark | 🟠 Learning |
-| Kafka | 🟠 Learning |
-| Airflow | 🟠 Learning |
-| Databricks | 🟠 Learning |
-| Azure | 🟠 Learning |
-| Snowflake | 🟠 Learning |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become AI Engineer
-
-- ✅ Become Data Engineer
-
-- ✅ Master Cloud Computing
-
-- ✅ Build Production AI Systems
-
-- ✅ Contribute to Open Source
-
-- ✅ 1000+ GitHub Contributions
-
-- ✅ Build SaaS Products
-
-- ✅ Crack Product Based Company
-
----
-
-# 💡 Fun Facts
-
-⚡ I love solving real-world problems using AI.
-
-🚀 Building projects is my favorite way to learn.
-
-☕ Coffee + Coding = Productivity
-
-🎯 Always learning something new.
-
-💻 Clean Code > Clever Code
-
----
-
-<div align="center">
-
-## ⭐ "Turning Data into Intelligence, Ideas into Impact."
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b35,100:111111&height=120&section=header"/>
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mohammedrehan143">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-| Certification | Status |
-|---------------|--------|
-| Python | ✅ |
-| SQL | ✅ |
-| Machine Learning | 🚀 |
-| Data Engineering | 🚀 |
-| Cloud Computing | 🚀 |
-
-</div>
-
----
-
-# 📊 Weekly Development Breakdown
-
-<div align="center">
-
-<!-- Replace USERNAME with yours if needed -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohammedrehan143&theme=tokyonight"/>
-
-</div>
-
-> **Note:** This widget only works if you use WakaTime.
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 😂 Programming Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> This image will appear after you create the GitHub Action in Part 5.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohammedrehan143/mohammedrehan143/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/FF6B35/mohammedrehan143"/>
-
-</div>
-
----
-
-# 📌 Current Focus
-
-<div align="center">
-
-```text
-🤖 Artificial Intelligence
-████████████████████░░ 90%
-
-📊 Data Engineering
-██████████████████░░░░ 80%
-
-☁️ Cloud Computing
-██████████████░░░░░░░░ 70%
-
-💻 Full Stack Development
-███████████████████░░░ 85%
-
-🚀 Open Source
-█████████████░░░░░░░░░ 65%
-```
-
-</div>
-
----
-
-# ⚡ Fun Coding Facts
-
-```yaml
-Favorite Language: Python 🐍
-
-Favorite Database: PostgreSQL
-
-Favorite Framework: React
-
-Dream Role:
-AI & Data Engineer
-
-Current Mission:
-Building scalable AI applications.
-
-Motto:
-"Code. Learn. Build. Repeat."
-```
-
----
-
-# ❤️ Support My Work
-
-<div align="center">
-
-If you like my projects,
-
-⭐ Star my repositories
-
-🍴 Fork them
-
-🤝 Connect with me
-
-</div>
-
----
-
-<div align="center">
-
-# Thanks for Visiting 👋
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-
-### Turning Data into Intelligence, Ideas into Impact.
-
-⭐ Happy Coding ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b35,100:111111&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,50:ff6b35,100:111111" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff6b35" width="100%"/>
