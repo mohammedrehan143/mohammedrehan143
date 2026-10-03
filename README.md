@@ -93,7 +93,7 @@ Institution:
   BMS Institute of Technology & Management
 
 Discipline:
-  Computer Science & Engineering
+  Artificial Intelligence & Machine Learning Engineering 
 
 Focus Areas:
   - Artificial Intelligence & Machine Learning
@@ -300,7 +300,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedrehan143&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18"/>
+<img src="https://trophy.ryglcloud.net/?username=mohammedrehan143&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18"/>
 
 </div>
 
@@ -310,7 +310,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedrehan143&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph-two.vercel.app/graph?username=mohammedrehan143&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
 
