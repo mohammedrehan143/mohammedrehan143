@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mdrehan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mdrehan.vercel.app-FF6B35?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mrofficialyt083@gmail.com"><img src="https://img.shields.io/badge/Email-mrofficialyt083%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mohammedrehan143"><img src="https://img.shields.io/badge/GitHub-mohammedrehan143-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -262,6 +263,11 @@ flowchart LR
       <td>Conversational financial intelligence assistant analyzing personal spending habits, budget anomalies, and cash flow projections.</td>
       <td><code>Python</code> <code>LLM APIs</code> <code>Pandas</code> <code>NumPy</code></td>
     </tr>
+    <tr>
+      <td><b>🌐 Interactive Portfolio Website</b></td>
+      <td>Modern animated engineering portfolio showcasing interactive project demos, responsive design, and smooth user experiences. <a href="https://mdrehan.vercel.app" target="_blank"><b>Live Site ↗</b></a></td>
+      <td><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vercel</code></td>
+    </tr>
   </tbody>
 </table>
 
@@ -320,6 +326,9 @@ flowchart LR
   <p>I'm always open to discussing <b>Agentic AI systems</b>, <b>autonomous workflows</b>, <b>Full-Stack SaaS</b>, or <b>open-source collaborations</b>.</p>
 
   <p align="center">
+    <a href="https://mdrehan.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-mdrehan.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:mrofficialyt083@gmail.com">
       <img src="https://img.shields.io/badge/Email-mrofficialyt083%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -335,6 +344,16 @@ flowchart LR
   </p>
 
   <br>
+
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Waving Astronaut" />
+
+  <br><br>
+
+  <a href="https://mdrehan.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&color=FF6B35&center=true&vCenter=true&width=850&lines=Thank+you+for+stopping+by!+%E2%9C%A8;Interested+in+collaborating%3F+Let's+connect!+%F0%9F%A4%9D;Explore+my+live+portfolio+at+mdrehan.vercel.app+%F0%9F%8C%90;Have+an+inspiring+day+%26+happy+coding!+%F0%9F%9A%80" alt="Animated Thank You" />
+  </a>
+
+  <br><br>
   <b>⚡ "Code with purpose, automate with intelligence, build to scale."</b>
   <br><br>
 
