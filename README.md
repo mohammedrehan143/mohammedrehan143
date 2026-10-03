@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedrehan143&label=PROFILE+VIEWS&style=for-the-badge&color=ff6b35" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/mohammedrehan143/mohammedrehan143.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=ff6b35&labelColor=181717" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohammedrehan143?logo=github&style=for-the-badge&color=181717" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mohammedrehan143?affiliations=OWNER&style=for-the-badge&color=ff6b35" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Status-Building_%26_Deploying-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
